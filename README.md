@@ -1,6 +1,6 @@
 ### Instrucciones para ejecutar el código
 
-- Si deseas ejecutar este código, sigue estos pasos:
+Si deseas ejecutar este código, sigue estos pasos:
 
   1. Instala las dependencias:
 
